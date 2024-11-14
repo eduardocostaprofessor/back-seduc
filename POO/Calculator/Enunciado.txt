@@ -1,0 +1,12 @@
+2) Crie um novo projeto C# chamado Calculator e o abra no VSCode. Dentro do projeto crie uma pasta  “Classes” e cria uma classe Calculadora com as seguintes propriedades e métodos 
+
+Propriedades:
+    numero1 float
+    numero2 float
+Métodos - todos devem retornar void e receber os dois números por parâmetro
+    Somar()
+    Subtrair()
+    Multiplicar()
+    Dividir()``
+
+Preencha as propriedades e métodos no arquivo Program.cs. Solicite ao usuário que preencha esses dados. Utilize o plugin para criar a classe no VSCode através do botão direito do mouse, na pasta Classes.

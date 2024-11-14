@@ -1,0 +1,14 @@
+/Users/eduardocosta/Desktop/aula-backend/LacosExemplo/bin/Debug/net8.0/LacosExemplo
+/Users/eduardocosta/Desktop/aula-backend/LacosExemplo/bin/Debug/net8.0/LacosExemplo.deps.json
+/Users/eduardocosta/Desktop/aula-backend/LacosExemplo/bin/Debug/net8.0/LacosExemplo.runtimeconfig.json
+/Users/eduardocosta/Desktop/aula-backend/LacosExemplo/bin/Debug/net8.0/LacosExemplo.dll
+/Users/eduardocosta/Desktop/aula-backend/LacosExemplo/bin/Debug/net8.0/LacosExemplo.pdb
+/Users/eduardocosta/Desktop/aula-backend/LacosExemplo/obj/Debug/net8.0/LacosExemplo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardocosta/Desktop/aula-backend/LacosExemplo/obj/Debug/net8.0/LacosExemplo.AssemblyInfoInputs.cache
+/Users/eduardocosta/Desktop/aula-backend/LacosExemplo/obj/Debug/net8.0/LacosExemplo.AssemblyInfo.cs
+/Users/eduardocosta/Desktop/aula-backend/LacosExemplo/obj/Debug/net8.0/LacosExemplo.csproj.CoreCompileInputs.cache
+/Users/eduardocosta/Desktop/aula-backend/LacosExemplo/obj/Debug/net8.0/LacosExemplo.dll
+/Users/eduardocosta/Desktop/aula-backend/LacosExemplo/obj/Debug/net8.0/refint/LacosExemplo.dll
+/Users/eduardocosta/Desktop/aula-backend/LacosExemplo/obj/Debug/net8.0/LacosExemplo.pdb
+/Users/eduardocosta/Desktop/aula-backend/LacosExemplo/obj/Debug/net8.0/LacosExemplo.genruntimeconfig.cache
+/Users/eduardocosta/Desktop/aula-backend/LacosExemplo/obj/Debug/net8.0/ref/LacosExemplo.dll

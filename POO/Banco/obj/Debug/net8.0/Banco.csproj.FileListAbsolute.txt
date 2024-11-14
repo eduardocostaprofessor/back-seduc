@@ -1,0 +1,14 @@
+/Users/eduardocosta/Desktop/aula-backend/POO/Banco/bin/Debug/net8.0/Banco
+/Users/eduardocosta/Desktop/aula-backend/POO/Banco/bin/Debug/net8.0/Banco.deps.json
+/Users/eduardocosta/Desktop/aula-backend/POO/Banco/bin/Debug/net8.0/Banco.runtimeconfig.json
+/Users/eduardocosta/Desktop/aula-backend/POO/Banco/bin/Debug/net8.0/Banco.dll
+/Users/eduardocosta/Desktop/aula-backend/POO/Banco/bin/Debug/net8.0/Banco.pdb
+/Users/eduardocosta/Desktop/aula-backend/POO/Banco/obj/Debug/net8.0/Banco.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardocosta/Desktop/aula-backend/POO/Banco/obj/Debug/net8.0/Banco.AssemblyInfoInputs.cache
+/Users/eduardocosta/Desktop/aula-backend/POO/Banco/obj/Debug/net8.0/Banco.AssemblyInfo.cs
+/Users/eduardocosta/Desktop/aula-backend/POO/Banco/obj/Debug/net8.0/Banco.csproj.CoreCompileInputs.cache
+/Users/eduardocosta/Desktop/aula-backend/POO/Banco/obj/Debug/net8.0/Banco.dll
+/Users/eduardocosta/Desktop/aula-backend/POO/Banco/obj/Debug/net8.0/refint/Banco.dll
+/Users/eduardocosta/Desktop/aula-backend/POO/Banco/obj/Debug/net8.0/Banco.pdb
+/Users/eduardocosta/Desktop/aula-backend/POO/Banco/obj/Debug/net8.0/Banco.genruntimeconfig.cache
+/Users/eduardocosta/Desktop/aula-backend/POO/Banco/obj/Debug/net8.0/ref/Banco.dll

@@ -1,0 +1,14 @@
+/Users/eduardocosta/Desktop/aula-backend/POO/AtividadeClasses/bin/Debug/net8.0/AtividadeClasses
+/Users/eduardocosta/Desktop/aula-backend/POO/AtividadeClasses/bin/Debug/net8.0/AtividadeClasses.deps.json
+/Users/eduardocosta/Desktop/aula-backend/POO/AtividadeClasses/bin/Debug/net8.0/AtividadeClasses.runtimeconfig.json
+/Users/eduardocosta/Desktop/aula-backend/POO/AtividadeClasses/bin/Debug/net8.0/AtividadeClasses.dll
+/Users/eduardocosta/Desktop/aula-backend/POO/AtividadeClasses/bin/Debug/net8.0/AtividadeClasses.pdb
+/Users/eduardocosta/Desktop/aula-backend/POO/AtividadeClasses/obj/Debug/net8.0/AtividadeClasses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardocosta/Desktop/aula-backend/POO/AtividadeClasses/obj/Debug/net8.0/AtividadeClasses.AssemblyInfoInputs.cache
+/Users/eduardocosta/Desktop/aula-backend/POO/AtividadeClasses/obj/Debug/net8.0/AtividadeClasses.AssemblyInfo.cs
+/Users/eduardocosta/Desktop/aula-backend/POO/AtividadeClasses/obj/Debug/net8.0/AtividadeClasses.csproj.CoreCompileInputs.cache
+/Users/eduardocosta/Desktop/aula-backend/POO/AtividadeClasses/obj/Debug/net8.0/AtividadeClasses.dll
+/Users/eduardocosta/Desktop/aula-backend/POO/AtividadeClasses/obj/Debug/net8.0/refint/AtividadeClasses.dll
+/Users/eduardocosta/Desktop/aula-backend/POO/AtividadeClasses/obj/Debug/net8.0/AtividadeClasses.pdb
+/Users/eduardocosta/Desktop/aula-backend/POO/AtividadeClasses/obj/Debug/net8.0/AtividadeClasses.genruntimeconfig.cache
+/Users/eduardocosta/Desktop/aula-backend/POO/AtividadeClasses/obj/Debug/net8.0/ref/AtividadeClasses.dll

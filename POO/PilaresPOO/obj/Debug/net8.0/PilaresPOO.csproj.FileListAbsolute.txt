@@ -1,0 +1,14 @@
+/Users/eduardocosta/Desktop/aula-backend/POO/PilaresPOO/bin/Debug/net8.0/PilaresPOO
+/Users/eduardocosta/Desktop/aula-backend/POO/PilaresPOO/bin/Debug/net8.0/PilaresPOO.deps.json
+/Users/eduardocosta/Desktop/aula-backend/POO/PilaresPOO/bin/Debug/net8.0/PilaresPOO.runtimeconfig.json
+/Users/eduardocosta/Desktop/aula-backend/POO/PilaresPOO/bin/Debug/net8.0/PilaresPOO.dll
+/Users/eduardocosta/Desktop/aula-backend/POO/PilaresPOO/bin/Debug/net8.0/PilaresPOO.pdb
+/Users/eduardocosta/Desktop/aula-backend/POO/PilaresPOO/obj/Debug/net8.0/PilaresPOO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardocosta/Desktop/aula-backend/POO/PilaresPOO/obj/Debug/net8.0/PilaresPOO.AssemblyInfoInputs.cache
+/Users/eduardocosta/Desktop/aula-backend/POO/PilaresPOO/obj/Debug/net8.0/PilaresPOO.AssemblyInfo.cs
+/Users/eduardocosta/Desktop/aula-backend/POO/PilaresPOO/obj/Debug/net8.0/PilaresPOO.csproj.CoreCompileInputs.cache
+/Users/eduardocosta/Desktop/aula-backend/POO/PilaresPOO/obj/Debug/net8.0/PilaresPOO.dll
+/Users/eduardocosta/Desktop/aula-backend/POO/PilaresPOO/obj/Debug/net8.0/refint/PilaresPOO.dll
+/Users/eduardocosta/Desktop/aula-backend/POO/PilaresPOO/obj/Debug/net8.0/PilaresPOO.pdb
+/Users/eduardocosta/Desktop/aula-backend/POO/PilaresPOO/obj/Debug/net8.0/PilaresPOO.genruntimeconfig.cache
+/Users/eduardocosta/Desktop/aula-backend/POO/PilaresPOO/obj/Debug/net8.0/ref/PilaresPOO.dll

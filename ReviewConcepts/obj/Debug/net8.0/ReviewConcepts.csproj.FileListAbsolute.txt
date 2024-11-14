@@ -1,0 +1,14 @@
+/Users/eduardocosta/Desktop/aula-backend/ReviewConcepts/bin/Debug/net8.0/ReviewConcepts
+/Users/eduardocosta/Desktop/aula-backend/ReviewConcepts/bin/Debug/net8.0/ReviewConcepts.deps.json
+/Users/eduardocosta/Desktop/aula-backend/ReviewConcepts/bin/Debug/net8.0/ReviewConcepts.runtimeconfig.json
+/Users/eduardocosta/Desktop/aula-backend/ReviewConcepts/bin/Debug/net8.0/ReviewConcepts.dll
+/Users/eduardocosta/Desktop/aula-backend/ReviewConcepts/bin/Debug/net8.0/ReviewConcepts.pdb
+/Users/eduardocosta/Desktop/aula-backend/ReviewConcepts/obj/Debug/net8.0/ReviewConcepts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardocosta/Desktop/aula-backend/ReviewConcepts/obj/Debug/net8.0/ReviewConcepts.AssemblyInfoInputs.cache
+/Users/eduardocosta/Desktop/aula-backend/ReviewConcepts/obj/Debug/net8.0/ReviewConcepts.AssemblyInfo.cs
+/Users/eduardocosta/Desktop/aula-backend/ReviewConcepts/obj/Debug/net8.0/ReviewConcepts.csproj.CoreCompileInputs.cache
+/Users/eduardocosta/Desktop/aula-backend/ReviewConcepts/obj/Debug/net8.0/ReviewConcepts.dll
+/Users/eduardocosta/Desktop/aula-backend/ReviewConcepts/obj/Debug/net8.0/refint/ReviewConcepts.dll
+/Users/eduardocosta/Desktop/aula-backend/ReviewConcepts/obj/Debug/net8.0/ReviewConcepts.pdb
+/Users/eduardocosta/Desktop/aula-backend/ReviewConcepts/obj/Debug/net8.0/ReviewConcepts.genruntimeconfig.cache
+/Users/eduardocosta/Desktop/aula-backend/ReviewConcepts/obj/Debug/net8.0/ref/ReviewConcepts.dll

@@ -1,0 +1,14 @@
+/Users/eduardocosta/Desktop/aula-backend/POO/Calculator/bin/Debug/net8.0/Calculator
+/Users/eduardocosta/Desktop/aula-backend/POO/Calculator/bin/Debug/net8.0/Calculator.deps.json
+/Users/eduardocosta/Desktop/aula-backend/POO/Calculator/bin/Debug/net8.0/Calculator.runtimeconfig.json
+/Users/eduardocosta/Desktop/aula-backend/POO/Calculator/bin/Debug/net8.0/Calculator.dll
+/Users/eduardocosta/Desktop/aula-backend/POO/Calculator/bin/Debug/net8.0/Calculator.pdb
+/Users/eduardocosta/Desktop/aula-backend/POO/Calculator/obj/Debug/net8.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardocosta/Desktop/aula-backend/POO/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfoInputs.cache
+/Users/eduardocosta/Desktop/aula-backend/POO/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfo.cs
+/Users/eduardocosta/Desktop/aula-backend/POO/Calculator/obj/Debug/net8.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/eduardocosta/Desktop/aula-backend/POO/Calculator/obj/Debug/net8.0/Calculator.dll
+/Users/eduardocosta/Desktop/aula-backend/POO/Calculator/obj/Debug/net8.0/refint/Calculator.dll
+/Users/eduardocosta/Desktop/aula-backend/POO/Calculator/obj/Debug/net8.0/Calculator.pdb
+/Users/eduardocosta/Desktop/aula-backend/POO/Calculator/obj/Debug/net8.0/Calculator.genruntimeconfig.cache
+/Users/eduardocosta/Desktop/aula-backend/POO/Calculator/obj/Debug/net8.0/ref/Calculator.dll

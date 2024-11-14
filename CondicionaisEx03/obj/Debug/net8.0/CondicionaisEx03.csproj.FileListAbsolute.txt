@@ -1,0 +1,14 @@
+/Users/eduardocosta/Desktop/aula-backend/CondicionaisEx03/bin/Debug/net8.0/CondicionaisEx03
+/Users/eduardocosta/Desktop/aula-backend/CondicionaisEx03/bin/Debug/net8.0/CondicionaisEx03.deps.json
+/Users/eduardocosta/Desktop/aula-backend/CondicionaisEx03/bin/Debug/net8.0/CondicionaisEx03.runtimeconfig.json
+/Users/eduardocosta/Desktop/aula-backend/CondicionaisEx03/bin/Debug/net8.0/CondicionaisEx03.dll
+/Users/eduardocosta/Desktop/aula-backend/CondicionaisEx03/bin/Debug/net8.0/CondicionaisEx03.pdb
+/Users/eduardocosta/Desktop/aula-backend/CondicionaisEx03/obj/Debug/net8.0/CondicionaisEx03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardocosta/Desktop/aula-backend/CondicionaisEx03/obj/Debug/net8.0/CondicionaisEx03.AssemblyInfoInputs.cache
+/Users/eduardocosta/Desktop/aula-backend/CondicionaisEx03/obj/Debug/net8.0/CondicionaisEx03.AssemblyInfo.cs
+/Users/eduardocosta/Desktop/aula-backend/CondicionaisEx03/obj/Debug/net8.0/CondicionaisEx03.csproj.CoreCompileInputs.cache
+/Users/eduardocosta/Desktop/aula-backend/CondicionaisEx03/obj/Debug/net8.0/CondicionaisEx03.dll
+/Users/eduardocosta/Desktop/aula-backend/CondicionaisEx03/obj/Debug/net8.0/refint/CondicionaisEx03.dll
+/Users/eduardocosta/Desktop/aula-backend/CondicionaisEx03/obj/Debug/net8.0/CondicionaisEx03.pdb
+/Users/eduardocosta/Desktop/aula-backend/CondicionaisEx03/obj/Debug/net8.0/CondicionaisEx03.genruntimeconfig.cache
+/Users/eduardocosta/Desktop/aula-backend/CondicionaisEx03/obj/Debug/net8.0/ref/CondicionaisEx03.dll

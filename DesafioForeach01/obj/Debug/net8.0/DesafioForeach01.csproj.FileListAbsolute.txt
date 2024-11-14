@@ -1,0 +1,14 @@
+/Users/eduardocosta/Desktop/aula-backend/DesafioForeach01/bin/Debug/net8.0/DesafioForeach01
+/Users/eduardocosta/Desktop/aula-backend/DesafioForeach01/bin/Debug/net8.0/DesafioForeach01.deps.json
+/Users/eduardocosta/Desktop/aula-backend/DesafioForeach01/bin/Debug/net8.0/DesafioForeach01.runtimeconfig.json
+/Users/eduardocosta/Desktop/aula-backend/DesafioForeach01/bin/Debug/net8.0/DesafioForeach01.dll
+/Users/eduardocosta/Desktop/aula-backend/DesafioForeach01/bin/Debug/net8.0/DesafioForeach01.pdb
+/Users/eduardocosta/Desktop/aula-backend/DesafioForeach01/obj/Debug/net8.0/DesafioForeach01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardocosta/Desktop/aula-backend/DesafioForeach01/obj/Debug/net8.0/DesafioForeach01.AssemblyInfoInputs.cache
+/Users/eduardocosta/Desktop/aula-backend/DesafioForeach01/obj/Debug/net8.0/DesafioForeach01.AssemblyInfo.cs
+/Users/eduardocosta/Desktop/aula-backend/DesafioForeach01/obj/Debug/net8.0/DesafioForeach01.csproj.CoreCompileInputs.cache
+/Users/eduardocosta/Desktop/aula-backend/DesafioForeach01/obj/Debug/net8.0/DesafioForeach01.dll
+/Users/eduardocosta/Desktop/aula-backend/DesafioForeach01/obj/Debug/net8.0/refint/DesafioForeach01.dll
+/Users/eduardocosta/Desktop/aula-backend/DesafioForeach01/obj/Debug/net8.0/DesafioForeach01.pdb
+/Users/eduardocosta/Desktop/aula-backend/DesafioForeach01/obj/Debug/net8.0/DesafioForeach01.genruntimeconfig.cache
+/Users/eduardocosta/Desktop/aula-backend/DesafioForeach01/obj/Debug/net8.0/ref/DesafioForeach01.dll

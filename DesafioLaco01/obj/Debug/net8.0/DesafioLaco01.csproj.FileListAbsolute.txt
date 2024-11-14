@@ -1,0 +1,14 @@
+/Users/eduardocosta/Desktop/aula-backend/DesafioLaco01/bin/Debug/net8.0/DesafioLaco01
+/Users/eduardocosta/Desktop/aula-backend/DesafioLaco01/bin/Debug/net8.0/DesafioLaco01.deps.json
+/Users/eduardocosta/Desktop/aula-backend/DesafioLaco01/bin/Debug/net8.0/DesafioLaco01.runtimeconfig.json
+/Users/eduardocosta/Desktop/aula-backend/DesafioLaco01/bin/Debug/net8.0/DesafioLaco01.dll
+/Users/eduardocosta/Desktop/aula-backend/DesafioLaco01/bin/Debug/net8.0/DesafioLaco01.pdb
+/Users/eduardocosta/Desktop/aula-backend/DesafioLaco01/obj/Debug/net8.0/DesafioLaco01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardocosta/Desktop/aula-backend/DesafioLaco01/obj/Debug/net8.0/DesafioLaco01.AssemblyInfoInputs.cache
+/Users/eduardocosta/Desktop/aula-backend/DesafioLaco01/obj/Debug/net8.0/DesafioLaco01.AssemblyInfo.cs
+/Users/eduardocosta/Desktop/aula-backend/DesafioLaco01/obj/Debug/net8.0/DesafioLaco01.csproj.CoreCompileInputs.cache
+/Users/eduardocosta/Desktop/aula-backend/DesafioLaco01/obj/Debug/net8.0/DesafioLaco01.dll
+/Users/eduardocosta/Desktop/aula-backend/DesafioLaco01/obj/Debug/net8.0/refint/DesafioLaco01.dll
+/Users/eduardocosta/Desktop/aula-backend/DesafioLaco01/obj/Debug/net8.0/DesafioLaco01.pdb
+/Users/eduardocosta/Desktop/aula-backend/DesafioLaco01/obj/Debug/net8.0/DesafioLaco01.genruntimeconfig.cache
+/Users/eduardocosta/Desktop/aula-backend/DesafioLaco01/obj/Debug/net8.0/ref/DesafioLaco01.dll

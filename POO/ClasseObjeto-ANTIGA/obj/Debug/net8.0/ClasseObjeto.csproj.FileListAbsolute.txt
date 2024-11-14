@@ -1,0 +1,14 @@
+/Users/eduardocosta/Desktop/aula-backend/POO/ClasseObjeto/bin/Debug/net8.0/ClasseObjeto
+/Users/eduardocosta/Desktop/aula-backend/POO/ClasseObjeto/bin/Debug/net8.0/ClasseObjeto.deps.json
+/Users/eduardocosta/Desktop/aula-backend/POO/ClasseObjeto/bin/Debug/net8.0/ClasseObjeto.runtimeconfig.json
+/Users/eduardocosta/Desktop/aula-backend/POO/ClasseObjeto/bin/Debug/net8.0/ClasseObjeto.dll
+/Users/eduardocosta/Desktop/aula-backend/POO/ClasseObjeto/bin/Debug/net8.0/ClasseObjeto.pdb
+/Users/eduardocosta/Desktop/aula-backend/POO/ClasseObjeto/obj/Debug/net8.0/ClasseObjeto.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardocosta/Desktop/aula-backend/POO/ClasseObjeto/obj/Debug/net8.0/ClasseObjeto.AssemblyInfoInputs.cache
+/Users/eduardocosta/Desktop/aula-backend/POO/ClasseObjeto/obj/Debug/net8.0/ClasseObjeto.AssemblyInfo.cs
+/Users/eduardocosta/Desktop/aula-backend/POO/ClasseObjeto/obj/Debug/net8.0/ClasseObjeto.csproj.CoreCompileInputs.cache
+/Users/eduardocosta/Desktop/aula-backend/POO/ClasseObjeto/obj/Debug/net8.0/ClasseObjeto.dll
+/Users/eduardocosta/Desktop/aula-backend/POO/ClasseObjeto/obj/Debug/net8.0/refint/ClasseObjeto.dll
+/Users/eduardocosta/Desktop/aula-backend/POO/ClasseObjeto/obj/Debug/net8.0/ClasseObjeto.pdb
+/Users/eduardocosta/Desktop/aula-backend/POO/ClasseObjeto/obj/Debug/net8.0/ClasseObjeto.genruntimeconfig.cache
+/Users/eduardocosta/Desktop/aula-backend/POO/ClasseObjeto/obj/Debug/net8.0/ref/ClasseObjeto.dll

@@ -1,0 +1,14 @@
+/Users/eduardocosta/Desktop/aula-backend/Foreach01/bin/Debug/net8.0/Foreach01
+/Users/eduardocosta/Desktop/aula-backend/Foreach01/bin/Debug/net8.0/Foreach01.deps.json
+/Users/eduardocosta/Desktop/aula-backend/Foreach01/bin/Debug/net8.0/Foreach01.runtimeconfig.json
+/Users/eduardocosta/Desktop/aula-backend/Foreach01/bin/Debug/net8.0/Foreach01.dll
+/Users/eduardocosta/Desktop/aula-backend/Foreach01/bin/Debug/net8.0/Foreach01.pdb
+/Users/eduardocosta/Desktop/aula-backend/Foreach01/obj/Debug/net8.0/Foreach01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardocosta/Desktop/aula-backend/Foreach01/obj/Debug/net8.0/Foreach01.AssemblyInfoInputs.cache
+/Users/eduardocosta/Desktop/aula-backend/Foreach01/obj/Debug/net8.0/Foreach01.AssemblyInfo.cs
+/Users/eduardocosta/Desktop/aula-backend/Foreach01/obj/Debug/net8.0/Foreach01.csproj.CoreCompileInputs.cache
+/Users/eduardocosta/Desktop/aula-backend/Foreach01/obj/Debug/net8.0/Foreach01.dll
+/Users/eduardocosta/Desktop/aula-backend/Foreach01/obj/Debug/net8.0/refint/Foreach01.dll
+/Users/eduardocosta/Desktop/aula-backend/Foreach01/obj/Debug/net8.0/Foreach01.pdb
+/Users/eduardocosta/Desktop/aula-backend/Foreach01/obj/Debug/net8.0/Foreach01.genruntimeconfig.cache
+/Users/eduardocosta/Desktop/aula-backend/Foreach01/obj/Debug/net8.0/ref/Foreach01.dll

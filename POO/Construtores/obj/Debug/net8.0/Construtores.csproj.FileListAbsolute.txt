@@ -1,0 +1,14 @@
+/Users/eduardocosta/Desktop/aula-backend/POO/Construtores/bin/Debug/net8.0/Construtores
+/Users/eduardocosta/Desktop/aula-backend/POO/Construtores/bin/Debug/net8.0/Construtores.deps.json
+/Users/eduardocosta/Desktop/aula-backend/POO/Construtores/bin/Debug/net8.0/Construtores.runtimeconfig.json
+/Users/eduardocosta/Desktop/aula-backend/POO/Construtores/bin/Debug/net8.0/Construtores.dll
+/Users/eduardocosta/Desktop/aula-backend/POO/Construtores/bin/Debug/net8.0/Construtores.pdb
+/Users/eduardocosta/Desktop/aula-backend/POO/Construtores/obj/Debug/net8.0/Construtores.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardocosta/Desktop/aula-backend/POO/Construtores/obj/Debug/net8.0/Construtores.AssemblyInfoInputs.cache
+/Users/eduardocosta/Desktop/aula-backend/POO/Construtores/obj/Debug/net8.0/Construtores.AssemblyInfo.cs
+/Users/eduardocosta/Desktop/aula-backend/POO/Construtores/obj/Debug/net8.0/Construtores.csproj.CoreCompileInputs.cache
+/Users/eduardocosta/Desktop/aula-backend/POO/Construtores/obj/Debug/net8.0/Construtores.dll
+/Users/eduardocosta/Desktop/aula-backend/POO/Construtores/obj/Debug/net8.0/refint/Construtores.dll
+/Users/eduardocosta/Desktop/aula-backend/POO/Construtores/obj/Debug/net8.0/Construtores.pdb
+/Users/eduardocosta/Desktop/aula-backend/POO/Construtores/obj/Debug/net8.0/Construtores.genruntimeconfig.cache
+/Users/eduardocosta/Desktop/aula-backend/POO/Construtores/obj/Debug/net8.0/ref/Construtores.dll

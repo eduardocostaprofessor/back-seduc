@@ -1,0 +1,14 @@
+/Users/eduardocosta/Desktop/aula-backend/DesafioArray01/obj/Debug/net8.0/DesafioArray01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardocosta/Desktop/aula-backend/DesafioArray01/obj/Debug/net8.0/DesafioArray01.AssemblyInfoInputs.cache
+/Users/eduardocosta/Desktop/aula-backend/DesafioArray01/obj/Debug/net8.0/DesafioArray01.AssemblyInfo.cs
+/Users/eduardocosta/Desktop/aula-backend/DesafioArray01/obj/Debug/net8.0/DesafioArray01.csproj.CoreCompileInputs.cache
+/Users/eduardocosta/Desktop/aula-backend/DesafioArray01/bin/Debug/net8.0/DesafioArray01
+/Users/eduardocosta/Desktop/aula-backend/DesafioArray01/bin/Debug/net8.0/DesafioArray01.deps.json
+/Users/eduardocosta/Desktop/aula-backend/DesafioArray01/bin/Debug/net8.0/DesafioArray01.runtimeconfig.json
+/Users/eduardocosta/Desktop/aula-backend/DesafioArray01/bin/Debug/net8.0/DesafioArray01.dll
+/Users/eduardocosta/Desktop/aula-backend/DesafioArray01/bin/Debug/net8.0/DesafioArray01.pdb
+/Users/eduardocosta/Desktop/aula-backend/DesafioArray01/obj/Debug/net8.0/DesafioArray01.dll
+/Users/eduardocosta/Desktop/aula-backend/DesafioArray01/obj/Debug/net8.0/refint/DesafioArray01.dll
+/Users/eduardocosta/Desktop/aula-backend/DesafioArray01/obj/Debug/net8.0/DesafioArray01.pdb
+/Users/eduardocosta/Desktop/aula-backend/DesafioArray01/obj/Debug/net8.0/DesafioArray01.genruntimeconfig.cache
+/Users/eduardocosta/Desktop/aula-backend/DesafioArray01/obj/Debug/net8.0/ref/DesafioArray01.dll

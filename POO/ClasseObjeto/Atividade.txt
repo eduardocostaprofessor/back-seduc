@@ -1,0 +1,19 @@
+Crie um novo projeto de console dentro da pasta POO - chamado AtividadeClasses
+Crie uma classe Veiculo com as seguintes propriedades e métodos:
+
+Propriedades:
+    marca
+    modelo
+    cor
+    potencia
+    qtdPortas
+
+Métodos: 
+    Acelerar()
+    Ligar()
+    Desligar()
+    Freiar()
+
+Preencha as propriedades e métodos no arquivo Program.cs. Solicite ao usuário que preencha esses dados
+
+utilize o plugin para criar a classe no VSCode através do botão direito do mouse, na pasta AtividadeClasses, como fizemos em sala juntos.

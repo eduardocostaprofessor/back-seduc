@@ -1,0 +1,14 @@
+/Users/eduardocosta/Desktop/aula-backend/DesafioArray02/bin/Debug/net8.0/DesafioArray02
+/Users/eduardocosta/Desktop/aula-backend/DesafioArray02/bin/Debug/net8.0/DesafioArray02.deps.json
+/Users/eduardocosta/Desktop/aula-backend/DesafioArray02/bin/Debug/net8.0/DesafioArray02.runtimeconfig.json
+/Users/eduardocosta/Desktop/aula-backend/DesafioArray02/bin/Debug/net8.0/DesafioArray02.dll
+/Users/eduardocosta/Desktop/aula-backend/DesafioArray02/bin/Debug/net8.0/DesafioArray02.pdb
+/Users/eduardocosta/Desktop/aula-backend/DesafioArray02/obj/Debug/net8.0/DesafioArray02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardocosta/Desktop/aula-backend/DesafioArray02/obj/Debug/net8.0/DesafioArray02.AssemblyInfoInputs.cache
+/Users/eduardocosta/Desktop/aula-backend/DesafioArray02/obj/Debug/net8.0/DesafioArray02.AssemblyInfo.cs
+/Users/eduardocosta/Desktop/aula-backend/DesafioArray02/obj/Debug/net8.0/DesafioArray02.csproj.CoreCompileInputs.cache
+/Users/eduardocosta/Desktop/aula-backend/DesafioArray02/obj/Debug/net8.0/DesafioArray02.dll
+/Users/eduardocosta/Desktop/aula-backend/DesafioArray02/obj/Debug/net8.0/refint/DesafioArray02.dll
+/Users/eduardocosta/Desktop/aula-backend/DesafioArray02/obj/Debug/net8.0/DesafioArray02.pdb
+/Users/eduardocosta/Desktop/aula-backend/DesafioArray02/obj/Debug/net8.0/DesafioArray02.genruntimeconfig.cache
+/Users/eduardocosta/Desktop/aula-backend/DesafioArray02/obj/Debug/net8.0/ref/DesafioArray02.dll
